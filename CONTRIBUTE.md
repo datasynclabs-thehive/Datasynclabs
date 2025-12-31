@@ -2,9 +2,10 @@
 
 ## How to start
 1. Read README.md
-2. Pick a starter task from Issues
-3. Comment "I’m claiming this task"
-4. Post updates in GitHub or Discord
+2. Read CONTRIBUTING.md
+3. Pick a starter task from Issues
+4. Comment "I’m claiming this task"
+5. Post updates in GitHub or Discord
 
 ## How to submit work
 - Use Pull Requests for docs/code
