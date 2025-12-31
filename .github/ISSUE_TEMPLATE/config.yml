@@ -1,0 +1,18 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 📘 DataSynclabs Documentation
+    url: https://github.com/datasynclabs-thehive/datasynclabs/tree/main/docs
+    about: Read the system overview, architecture, and tokenomics before opening an issue.
+
+  - name: 💬 Contributor Discussion (Discord)
+    url: https://discord.gg/YOUR_INVITE
+    about: Ask questions, propose ideas, or discuss design decisions.
+
+  - name: 🛡️ Security Vulnerability Report
+    url: https://github.com/datasynclabs-thehive/datasynclabs/security/policy
+    about: Please report security vulnerabilities privately.
+
+  - name: 🧠 System Design Proposals
+    url: https://github.com/datasynclabs-thehive/datasynclabs/discussions
+    about: Use GitHub Discussions for high-level system or governance ideas.
